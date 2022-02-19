@@ -4,11 +4,8 @@ A new front-end Flutter project by Muhammad Umair Khan.
 
 ## Design Inspiration: [Carlo Bedin](https://dribbble.com/shots/14084662-Personal-Portfolio-App)
 
-### Images
+### Screenshots
 
-![Screenshot_1645264479](https://user-images.githubusercontent.com/75219867/154796352-6bcf096a-570c-4a9f-bd06-4e0509791d65.png)
+<img src="https://user-images.githubusercontent.com/75219867/154805285-e8d57b71-bcab-4ab0-9f41-4a14d153b9bf.png" width="400" height="790">
 
-![Screenshot_1645264497](https://user-images.githubusercontent.com/75219867/154796353-ce881e72-1d4c-4338-95fa-d03c30f07472.png)
-
-
-
+<img src="https://user-images.githubusercontent.com/75219867/154805288-42a0efdf-3f79-46f5-bf7b-3447efba4fea.png" width="400" height="790">
